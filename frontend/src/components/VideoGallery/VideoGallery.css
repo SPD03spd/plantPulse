@@ -1,0 +1,19 @@
+/* body {
+    margin: 0; 
+  } */
+  
+  .bg-plant-pattern {
+    background-image: url('../../assets//ECOM_img/banner3.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+  }
+  
+  .containers {
+    position: relative; 
+    z-index: 10; 
+    padding: 20px; 
+    border-radius: 8px;
+  }
+  
